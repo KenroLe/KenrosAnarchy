@@ -1,0 +1,37 @@
+# --- CurseForge / Minecraft instance ---
+# Track the pack definition (manifest.json, modlist.html), configs, and scripts.
+# Ignore downloaded mods, generated caches, logs, world data, and client state.
+
+# Downloaded / reproducible content
+/mods/
+/downloads/
+/resourcepacks/
+/shaderpacks/
+
+# World data (backed up separately)
+/saves/
+
+# Generated / runtime
+/logs/
+/crash-reports/
+/dynamic-resource-pack-cache/
+/dynamic-data-pack-cache/
+/moonlight-global-datapacks/
+/.mixin.out/
+/local/
+/ntgl/
+
+# CurseForge client state (large, machine-specific)
+/minecraftinstance.json
+/user-prefs.json
+/usercache.json
+/usernamecache.json
+/.curseclient
+/.qmenu_opened.marker
+
+# Local session / server state
+/servers.dat
+/servers.dat_old
+
+# Backups
+/XaeroWaypoints_BACKUP240807/

@@ -1,0 +1,10 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"securitycraft:codebreaker"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"securitycraft:keypad_chest"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"securitycraft:briefcase"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"jeg:soulhunter_mk2","components":{"jeg:gun_ammo":0}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"jeg:combat_rifle"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mekanism:atomic_disassembler","components":{"mekanism:energy":{"energy_containers":[1000000]}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:birch_button"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
